@@ -8,9 +8,9 @@ TO DO:
 
 Libraries:
 
-  1.Retrofit
-  2.RxJava
-  3.ThreeTen
-  4.Support design libraries
+  1. Retrofit
+  2. RxJava
+  3. ThreeTen
+  4. Support design libraries
 
 Screenshot:
